@@ -5,9 +5,9 @@
   <subtitle>LifeNote</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blog.fiepi.com/"/>
-  <updated>2017-10-31T06:36:43.684Z</updated>
-  <id>https://blog.fiepi.com/</id>
+  <link href="https://hexo.fiepi.com/"/>
+  <updated>2017-11-03T06:42:10.927Z</updated>
+  <id>https://hexo.fiepi.com/</id>
   
   <author>
     <name>fiepi</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>First post</title>
-    <link href="https://blog.fiepi.com/first-post/"/>
-    <id>https://blog.fiepi.com/first-post/</id>
+    <link href="https://hexo.fiepi.com/first-post/"/>
+    <id>https://hexo.fiepi.com/first-post/</id>
     <published>2017-10-31T06:32:07.000Z</published>
-    <updated>2017-10-31T06:36:43.684Z</updated>
+    <updated>2017-11-03T06:42:10.927Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,8 @@
     
     </summary>
     
+    
+      <category term="test" scheme="https://hexo.fiepi.com/tags/test/"/>
     
   </entry>
   
